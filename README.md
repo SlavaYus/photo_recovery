@@ -1,2 +1,2 @@
 # photo_recovery
-photo recovery with method of Fast Furier Transform
+Photo recovery with method of Fast Furier Transform
